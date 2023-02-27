@@ -1,7 +1,6 @@
 # PicsToSnapchat
 
-This is a simple React Native app that uses an API to load some images and display them. Upon clicking, it allows you to share that image to Snapchat using Snapchat's creative kit. 
+This is a simple React Native app that uses an API to load some images and display them. Upon clicking, it allows you to share that image using react-native-share library.
 
 
-
-![video of app](https://user-images.githubusercontent.com/37776346/220229930-e8499316-50fc-4870-bd7f-bc52a85143b2.gif)
+![video of app](https://user-images.githubusercontent.com/37776346/221511448-fa4f2f65-d237-43e3-85df-0ceecfbe4a4d.gif)
