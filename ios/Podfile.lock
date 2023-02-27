@@ -380,6 +380,8 @@ PODS:
     - React-perflogger (= 0.71.3)
   - rn-fetch-blob (0.12.0):
     - React-Core
+  - RNShare (8.2.0):
+    - React-Core
   - snap-kit-react-native (0.4.0):
     - React-Core
     - SnapSDK/SCSDKCreativeKit (~> 1.15.0)
@@ -452,6 +454,7 @@ DEPENDENCIES:
   - React-runtimeexecutor (from `../node_modules/react-native/ReactCommon/runtimeexecutor`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
   - rn-fetch-blob (from `../node_modules/rn-fetch-blob`)
+  - RNShare (from `../node_modules/react-native-share`)
   - "snap-kit-react-native (from `../node_modules/@snapchat/snap-kit-react-native`)"
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
@@ -541,6 +544,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon"
   rn-fetch-blob:
     :path: "../node_modules/rn-fetch-blob"
+  RNShare:
+    :path: "../node_modules/react-native-share"
   snap-kit-react-native:
     :path: "../node_modules/@snapchat/snap-kit-react-native"
   Yoga:
@@ -593,6 +598,7 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 7bf0dafc7b727d93c8cb94eb00a9d3753c446c3e
   ReactCommon: 5768a505f0bc7b798dc2becdd3ee6442224f796c
   rn-fetch-blob: f065bb7ab7fb48dd002629f8bdcb0336602d3cba
+  RNShare: b089c33619bbfb0a32bc4069c858b9274e694187
   snap-kit-react-native: 751006199818fccb38c8a01196495167bc25e9fb
   SnapSDK: 1e68aad748e080f49e3802559b3b76026666ef62
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608

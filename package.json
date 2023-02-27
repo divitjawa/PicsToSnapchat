@@ -14,6 +14,7 @@
     "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-native": "0.71.3",
+    "react-native-share": "^8.2.0",
     "rn-fetch-blob": "^0.12.0"
   },
   "devDependencies": {
